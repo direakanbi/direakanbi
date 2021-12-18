@@ -27,7 +27,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a student at Microverse
-- 🌱 I’m currently exploring various web frameworks like Ruby, Ruby on Rails, React.JS and Data Structures and Algorithms. 
+- 🌱 I’m currently exploring various web frameworks like Ruby, Ruby on Rails, React.JS, Data Structures and Algorithms. 
 - 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
+- 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [direakanbi@icloud.com](mailto:direakanbi@icloud.com).
